@@ -1,0 +1,2 @@
+Warning (10268): Verilog HDL information at controller.v(168): always construct contains both blocking and non-blocking assignments File: C:/Users/maxim/Downloads/19_PD_verilog/components/controller.v Line: 168
+Warning (10268): Verilog HDL information at controller.v(168): always construct contains both blocking and non-blocking assignments File: C:/Users/maxim/Downloads/19_PD_verilog/db/ip/simple_struct/submodules/controller.v Line: 168
